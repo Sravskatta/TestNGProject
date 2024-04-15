@@ -1,0 +1,10 @@
+<suite name="MrngBatch">
+<test name= "testngReports">
+<classes>
+<class name="apr3.Testng">
+</class>
+<class name="apr3.SecondTestNGClass">
+</class>
+</classes>
+</test>
+</suite>

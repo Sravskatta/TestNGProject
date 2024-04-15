@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="10" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Running in before test]]>
+    </line>
+    <line>
+      <![CDATA[Executing cbanking Test]]>
+    </line>
+    <line>
+      <![CDATA[Executing ibanking Test]]>
+    </line>
+    <line>
+      <![CDATA[Executing pbanking Test]]>
+    </line>
+    <line>
+      <![CDATA[Running in before method]]>
+    </line>
+    <line>
+      <![CDATA[Executing leave test]]>
+    </line>
+    <line>
+      <![CDATA[Running in after method]]>
+    </line>
+    <line>
+      <![CDATA[Running in before method]]>
+    </line>
+    <line>
+      <![CDATA[Executing admin test]]>
+    </line>
+    <line>
+      <![CDATA[Running in after method]]>
+    </line>
+    <line>
+      <![CDATA[Running in before method]]>
+    </line>
+    <line>
+      <![CDATA[Executing admin test]]>
+    </line>
+    <line>
+      <![CDATA[Running in after method]]>
+    </line>
+    <line>
+      <![CDATA[Running in before method]]>
+    </line>
+    <line>
+      <![CDATA[Executing admin test]]>
+    </line>
+    <line>
+      <![CDATA[Running in after method]]>
+    </line>
+    <line>
+      <![CDATA[Running in before method]]>
+    </line>
+    <line>
+      <![CDATA[Executing admin test]]>
+    </line>
+    <line>
+      <![CDATA[Running in after method]]>
+    </line>
+    <line>
+      <![CDATA[Running in before method]]>
+    </line>
+    <line>
+      <![CDATA[Executing admin test]]>
+    </line>
+    <line>
+      <![CDATA[Running in after method]]>
+    </line>
+    <line>
+      <![CDATA[Running in aftertest]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-09T13:40:28 IST" name="MrngBatch" finished-at="2024-04-09T13:42:48 IST" duration-ms="139422">
+    <groups>
+    </groups>
+    <test started-at="2024-04-09T13:40:28 IST" name="testngReports" finished-at="2024-04-09T13:42:48 IST" duration-ms="139422">
+      <class name="apr3.Testng">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:apr3.Testng@63a12c68]" started-at="2024-04-09T13:40:28 IST" name="setUP" finished-at="2024-04-09T13:40:35 IST" duration-ms="6979" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in before test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="cbanking()[pri:0, instance:apr3.Testng@63a12c68]" started-at="2024-04-09T13:40:35 IST" name="cbanking" finished-at="2024-04-09T13:40:36 IST" duration-ms="406" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing cbanking Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cbanking -->
+        <test-method signature="ibanking()[pri:0, instance:apr3.Testng@63a12c68]" started-at="2024-04-09T13:40:36 IST" name="ibanking" finished-at="2024-04-09T13:40:36 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing ibanking Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ibanking -->
+        <test-method signature="pbanking()[pri:0, instance:apr3.Testng@63a12c68]" started-at="2024-04-09T13:40:36 IST" name="pbanking" finished-at="2024-04-09T13:40:37 IST" duration-ms="789" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing pbanking Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pbanking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apr3.Testng@63a12c68]" started-at="2024-04-09T13:42:47 IST" name="tearDown" finished-at="2024-04-09T13:42:48 IST" duration-ms="794" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in aftertest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- apr3.Testng -->
+      <class name="apr3.SecondTestNGClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:40:37 IST" name="setUp" finished-at="2024-04-09T13:41:00 IST" duration-ms="23197" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="leave()[pri:1, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:00 IST" name="leave" finished-at="2024-04-09T13:41:01 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing leave test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- leave -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:01 IST" name="tearDown" finished-at="2024-04-09T13:41:04 IST" duration-ms="2250" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:04 IST" name="setUp" finished-at="2024-04-09T13:41:26 IST" duration-ms="22008" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="admin()[pri:2, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:26 IST" name="admin" finished-at="2024-04-09T13:41:28 IST" duration-ms="2631" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing admin test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- admin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:28 IST" name="tearDown" finished-at="2024-04-09T13:41:31 IST" duration-ms="2900" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:31 IST" name="setUp" finished-at="2024-04-09T13:41:50 IST" duration-ms="19122" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="admin()[pri:2, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:50 IST" name="admin" finished-at="2024-04-09T13:41:52 IST" duration-ms="2062" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing admin test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- admin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:52 IST" name="tearDown" finished-at="2024-04-09T13:41:55 IST" duration-ms="2324" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:41:55 IST" name="setUp" finished-at="2024-04-09T13:42:12 IST" duration-ms="17122" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="admin()[pri:2, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:12 IST" name="admin" finished-at="2024-04-09T13:42:14 IST" duration-ms="1928" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing admin test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- admin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:14 IST" name="tearDown" finished-at="2024-04-09T13:42:15 IST" duration-ms="1196" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:15 IST" name="setUp" finished-at="2024-04-09T13:42:28 IST" duration-ms="12860" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="admin()[pri:2, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:28 IST" name="admin" finished-at="2024-04-09T13:42:30 IST" duration-ms="1835" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing admin test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- admin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:30 IST" name="tearDown" finished-at="2024-04-09T13:42:30 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:30 IST" name="setUp" finished-at="2024-04-09T13:42:44 IST" duration-ms="13604" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in before method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="admin()[pri:2, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:44 IST" name="admin" finished-at="2024-04-09T13:42:46 IST" duration-ms="2068" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing admin test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- admin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:apr3.SecondTestNGClass@67c33749]" started-at="2024-04-09T13:42:46 IST" name="tearDown" finished-at="2024-04-09T13:42:47 IST" duration-ms="696" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Running in after method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- apr3.SecondTestNGClass -->
+    </test> <!-- testngReports -->
+  </suite> <!-- MrngBatch -->
+</testng-results>
